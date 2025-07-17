@@ -14,7 +14,7 @@ export default function Header() {
                 />
                 <h1 className="text-2xl font-bold text-gray-600">TSender</h1>
                 <a
-                    href="https://github.comd/Lyes-Boudjabout/token-sender"
+                    href="https://github.comd/Lyes-Boudjabout/token-sender-ui"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-gray-600 transition-colors"
